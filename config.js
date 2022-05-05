@@ -68,7 +68,7 @@ const cpack = fs.readFileSync("lib/colong.json")
 const ctickerpack = JSON.parse(cpack)
 if (ctickerpack.cpackname == '') {
   var colong_name = 'sikilinsut olang nylong stikell'
-  var colong_author = 'Ciss 📸\n\n@rasel.ganz'
+  var colong_author = 'Ciss 📸\n\n@KAMAGAPO BOT'
  } else {
   var colong_name = ctickerpack.cpackname
   var colong_author = ctickerpack.cauthor
