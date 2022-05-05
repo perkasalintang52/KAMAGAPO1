@@ -46,7 +46,7 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
   var sticker_name = ''
-  var sticker_author = '               ig\n🔥 @rasel.ganz 🔥'
+  var sticker_author = '               ig\n🔥 @KAMAGAPO BOT 🔥'
  } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -85,28 +85,28 @@ global.pclg = colong_name
 global.aclg = colong_author
 //======================================//
 
-global.wm = '@rasel.ganz'
+global.wm = '@KAMAGAPO BOT'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
-global.linkig = 'https://www.instagram.com/p/CH1A1c9J5pY/?utm_medium=copy_link'
+global.linkgc = 'https://www.tiktok.com/@joceylintangg'
+global.linkig = 'https://www.instagram.com/joceylintangg'
 global.linkyt = ''
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.web = 'https://raselcomel.github.io'
-global.web1 = 'https://anu.rasell.repl.co'
+global.linkfb = ''
+global.web = ''
+global.web1 = ''
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@rasel.ganz'
+global.bodlink = '@KAMAGAPO BOT'
 
 //========= Url Template Button =========//
 global.dtu = 'Group Bot WhatsApp'
-global.urlnya = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.urlnya = 'https://www.instagram.com/joceylintangg'
 
 //========= Call Template Button =========//
 global.dtc = 'Add Me'
-global.nmbrnya = '+62 822-5604-8971'
+global.nmbrnya = '+62 813-2257-7123'
 
 
 //============ Proses Bot ============//
